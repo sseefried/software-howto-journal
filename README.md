@@ -1,4 +1,4 @@
-# Tech Journal: how to solve that problem
+# Software HOWTO Journal: how to solve that problem
 
 
 ## How to get HTML (web) pages to look good on mobile devices
